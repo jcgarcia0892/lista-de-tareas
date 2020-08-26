@@ -1,14 +1,4 @@
-# Webpack Starter
+# Lista de Tareas
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este proyecto sirvio para practicar la manipulacion del DOM y uso de clases en JS, adicional a esto se uso la libreria webpack y babel.
 
-### Notas:
-Recuerden reconstruir los módulos de Node
-```
-npm install
-```
-
-Y para construir el build, recueren:
-```
-npm run build
-```
